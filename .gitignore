@@ -45,7 +45,6 @@ frontend/yarn-debug.log*
 frontend/yarn-error.log*
 frontend/build/
 frontend/dist/
-frontend/public/
 frontend/.env
 frontend/.env.local
 frontend/.env.development.local
